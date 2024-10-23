@@ -16,7 +16,7 @@ export default function Contact() {
                 <Phone className="h-6 w-6 text-blue-900 mt-1" />
                 <div className="ml-4">
                   <h3 className="text-lg font-semibold text-gray-900">Phone</h3>
-                  <p className="text-gray-600">+27 83 631 3827</p>
+                  <p className="text-gray-600">+27 (10) 005 9300</p>
                 </div>
               </div>
               
